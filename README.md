@@ -11,4 +11,4 @@ Here are the settings of cutoff frequency:
 |bicycle-motorcycle    |motorcycle|bicycle  |           5|
 |submarine-fish        |fish      |submarine|           9|
 
-See more details at: [Computer Vision Project 1 Website](html/index.html)
+See more details at: [Computer Vision Project 1 Website](http://all4win.github.io/projects/cv_proj1/index.html)
